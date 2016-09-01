@@ -7,13 +7,15 @@
   "readmeFilename": "README.md",
   "main": "lib/poloniex",
   "dependencies": {
+    "cliff": "^0.1.10",
+    "colors": "^1.1.2",
+    "extend": "^3.0.0",
+    "node.bittrex.api": "^0.2.2",
     "nonce": "~1.0.3",
     "request": "~2.33.0"
   },
-  "devDependencies": {
-  },
-  "scripts": {
-  },
+  "devDependencies": {},
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/premasagar/poloniex.js.git"
